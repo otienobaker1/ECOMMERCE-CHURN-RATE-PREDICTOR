@@ -46,7 +46,7 @@ There are three deliverables for this project:
 
 1. A **non-technical presentation** 
 2. A **Jupyter Notebook**
-3. A **GitHub repository** - Access: https://github.com/otienobaker1
+3. A **GitHub repository** - Access: [https://github.com/otienobaker1](https://github.com/otienobaker1/ECOMMERCE-CHURN-RATE-PREDICTOR)
 
 #### Data Description 
 
@@ -62,7 +62,7 @@ The data we have used in this dataset with their respective descriptions include
 * `Total Purchase Amount` - The total amount spent by the customer in each transaction.
 * `Payment Method` - The method of payment used by the customer (e.g., credit card, PayPal).
 * `Returns` - Whether the customer returned any products from the order (binary: 0 for no return, 1 for return).
-* `Churn` - A binary column indicating whether the customer has churned (0 for retained, 1 for churned).
+* `Churn` - A binary column indicating whether the customer has churned or not churned meaning, left the platform or not, respectively (0 for retained, 1 for churned).
 
 #### Data Understanding 
 
@@ -71,7 +71,7 @@ The data we have used in this dataset with their respective descriptions include
 > Data visualization.
 > Applying logistic regression models.
 > Model evaluation. 
-> ROC curves and required for sampling.
+> Sampling.
 
 - We then load the e-commerce file and perform:
 **Data Preprocessing**
